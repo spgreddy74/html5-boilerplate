@@ -4,5 +4,7 @@
 node_modules
 dist
 .cache
-
+# Ignore credetnails.py file
 /credentials.py
+# Ignore text files inside of folder
+text/*.txt
